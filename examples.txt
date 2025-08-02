@@ -4,6 +4,7 @@ Die size: 6
 Rolls: [4 1 ]
 Total: 5
 
+-----
 
 Dice notation to roll: 5d20
 Die amt: 5
@@ -11,6 +12,7 @@ Die size: 20
 Rolls: [9 6 18 14 11 ]
 Total: 58
 
+-----
 
 Dice notation to roll: 15d20
 Die amt: 15
