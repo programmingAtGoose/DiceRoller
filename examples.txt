@@ -1,0 +1,19 @@
+Dice notation to roll: 2d6
+Die amt: 2
+Die size: 6
+Rolls: [4 1 ]
+Total: 5
+
+
+Dice notation to roll: 5d20
+Die amt: 5
+Die size: 20
+Rolls: [9 6 18 14 11 ]
+Total: 58
+
+
+Dice notation to roll: 15d20
+Die amt: 15
+Die size: 20
+Rolls: [1 10 11 7 18 3 19 3 17 16 4 16 9 16 11 ]
+Total: 161
