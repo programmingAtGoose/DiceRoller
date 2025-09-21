@@ -26,7 +26,7 @@ public class diceRoller {
         int roll;
         System.out.print("Rolls: [");
         for (int i = 0; i < dieAmt; i++) {
-            roll = rand.nextInt(dieSize + 1);
+            roll = rand.nextInt(dieSize) + 1;
             total += roll;
             System.out.print(roll + " ");
         }
